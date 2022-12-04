@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @gamc12world
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in game development,website development
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me discord link  =>https://discord.gg/zPqp2DKUK8
 
-<!---
-gamc12world/gamc12world is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
